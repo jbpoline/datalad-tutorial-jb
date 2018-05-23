@@ -5,7 +5,7 @@
 If you can - use a python virtual environment !  [See this link](https://docs.python.org/3/tutorial/venv.html)
 Also, be bold - use the virtualenv wrapper [here](https://virtualenvwrapper.readthedocs.io/en/latest/)
 
-This allows you to do thing like:
+This allows you to do things like:
 
     ~$ mkvirtualenv --python=python3 datalad-tutorial
     ~$ which python # what is your python ?
